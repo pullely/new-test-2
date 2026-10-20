@@ -1,0 +1,11 @@
+{
+  "cloudflare-r2/dev": {
+    "r2_bucket_name": "dev-new-test-2-dev"
+  },
+  "cloudflare-r2/stage": {
+    "r2_bucket_name": "stg-new-test-2-stage"
+  },
+  "cloudflare-r2/prod": {
+    "r2_bucket_name": "prod-new-test-2-prod"
+  }
+}
